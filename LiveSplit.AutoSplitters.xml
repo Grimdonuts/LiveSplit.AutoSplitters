@@ -12921,4 +12921,14 @@
         <Type>Script</Type>
         <Description>In Game Time for Spelunky Classic</Description>
     </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Psychonauts 2</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/Grimdonuts/psychonauts2loadremoval/main/LiveSplit.Psychonauts2_IGT.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Psychonauts 2 Load Removal by Grimdontus and Aryk</Description>
+    </AutoSplitter>
 </AutoSplitters>
